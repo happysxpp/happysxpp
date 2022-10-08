@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![snake svg](https://github.com/happysxpp/happysxpp/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 happysxpp/happysxpp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
