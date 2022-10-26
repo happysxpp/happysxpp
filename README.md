@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @happysxpp
 - 👀 I’m interested in 3D vision
 - 🌱 I’m currently learning 3D Reconstruction
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 ![snake svg](https://github.com/happysxpp/happysxpp/blob/output/github-contribution-grid-snake.svg)
 
